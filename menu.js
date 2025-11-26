@@ -4,7 +4,7 @@ const btnFechar = document.querySelector(".btn-fechar");
 const overlayMenu = document.querySelector(".overlay-menu");
 const linksMenu = document.querySelectorAll("#menu-mobile nav a");
 
-// FUNÇÕES MENU MOBILE
+// FUNÇÕES MENU MOBILE PORRA
 function abrirMenu() {
     if (!menuMobile) return;
     menuMobile.classList.add("abrir-menu");
